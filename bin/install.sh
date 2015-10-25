@@ -22,3 +22,4 @@ sh bootstrap
 make && make install
 ros setup
 ros install sbcl-bin
+ros install clack
